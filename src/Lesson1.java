@@ -12,6 +12,8 @@ public class Lesson1 {
         System.out.print("Ile masz lat? ");
         years = scanner.nextBigInteger();
         System.out.printf("Masz %s lat", years);
+        years = scanner.nextBigInteger();
+        System.out.printf("Masz %s lat", years);
 
     }
 }
